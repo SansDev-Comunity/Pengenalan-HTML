@@ -4,6 +4,8 @@
 
 #### HTML adalah HYpertext Markup Language
 
+# Berikut contoh syntax HTML
+
 ```
 <!DOCTYPE html>
 <html lang="en">
