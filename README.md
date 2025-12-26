@@ -42,3 +42,9 @@ HTML dimulai pada tahun 1991 ketika Tim Berners-Lee di CERN menciptakan versi pe
 - HTML5 (2014): Versi paling mutakhir, membawa fitur semantik penting (<header>, <footer>) dan dukungan bawaan untuk audio/video, menjadi fondasi web modern.
 
 ### Peran dan Standarisasi
+
+- Tujuan: Awalnya untuk berbagi informasi, kini menjadi bahasa markup dasar untuk struktur halaman web.
+
+- Standar: Perkembangannya diatur dan dikembangkan oleh World Wide Web Consortium (W3C).
+
+- Inovasi: Setiap versi menambahkan tag dan atribut baru untuk memenuhi kebutuhan web yang semakin kompleks, dari teks sederhana hingga konten multimedia yang kaya.
