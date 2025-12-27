@@ -8,4 +8,4 @@
 
 #Output
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/Pengenalan/img/Heading%20dan%20Paragraf.png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Memformat%20Teks%20dengan%20Bold%2C%20Italic%2C%20Underline.png)
