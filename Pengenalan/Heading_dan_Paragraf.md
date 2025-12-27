@@ -7,4 +7,4 @@
 ```
 # Output
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/Pengenalan/img/struktur%20dasar%20html.png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/Pengenalan/img/Heading%20dan%20Paragraf.png)
