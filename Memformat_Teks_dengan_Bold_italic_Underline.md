@@ -10,6 +10,6 @@ HTML memiliki tag <strong> untuk teks tebal atau bold, <em> untuk teks miring at
 
 Tag <strong> memiliki fungsi semantik yang menekankan bahwa teks dalam tag tersebut bersifat penting dan perlu ditekankan. Tag ini digunakan oleh crawler mesin pencari untuk SEO, dan oleh aplikasi pembaca layar untuk memberikan penekanan khusus.
 
-#Output
+# Output
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Memformat%20Teks%20dengan%20Bold%2C%20Italic%2C%20Underline.png)
