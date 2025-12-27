@@ -8,7 +8,7 @@ img
 Namun, perlu diingat bahwa Anda tidak bisa langsung memasukkan file gambar ke HTML. Anda perlu menyimpannya dulu di suatu lokasi, lalu merujuknya menggunakan atribut seperti src dan alt agar gambar bisa ditampilkan dengan benar.
 
 ```
-<img src="https://raw.githubusercontent.com/SansDev-Comunity/sunset-brew-coffee/refs/heads/main/assets/img/Sunset_Brew.png)" alt="Logo Sunset Brew" width="300" height="200">
+<img src="Sunset Brew.png" alt="Logo Sunset Brew" width="300" height="200">
 ```
 
 Pada contoh di atas, src menunjukkan lokasi file atau URL gambar. Anda bisa memasukkan link gambar dari internet atau alamat dari folder lokal di perangkat Anda.
@@ -16,3 +16,7 @@ Pada contoh di atas, src menunjukkan lokasi file atau URL gambar. Anda bisa mema
 Sementara itu, tag alt digunakan untuk menuliskan deskripsi gambar. Teks ini akan muncul kalau gambar gagal dimuat di web browser, serta membantu menjelaskan isi gambar kepada pengunjung yang memiliki gangguan penglihatan.
 
 Di bagian akhir, kami menambahkan tag ukuran width dan height untuk mengatur lebar dan tinggi gambar sesuai kebutuhan. Hasilnya adalah
+
+# Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/sunset-brew-coffee/refs/heads/main/assets/img/Sunset_Brew.png)
