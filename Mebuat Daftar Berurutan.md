@@ -49,3 +49,7 @@ Misalnya, coba kode berikut:
 ```
 
 ## Output
+
+
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Mebuat%20Daftar%20Berurutan.png)
