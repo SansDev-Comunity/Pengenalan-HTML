@@ -16,8 +16,24 @@ juga. Apabila ingin menggunakan urutan selain angka, cukup tambahkan atribut typ
 ```
 sesuai daftar berikut:
 
-```<ol type=”1″>``` untuk daftar dengan angka.
-```<ol type=”A”>``` untuk daftar dengan huruf besar.
-```<ol type=”a”>``` untuk daftar dengan huruf kecil.
-```<ol type=”I”>``` untuk daftar dengan angka romawi besar.
-```<ol type=”i”>``` untuk daftar dengan angka romawi kecil.
+```
+<ol type=”1″>
+``` 
+untuk daftar dengan angka.
+```
+<ol type=”A”>
+``` 
+untuk daftar dengan huruf besar.
+```
+<ol type=”a”>
+``` 
+untuk daftar dengan huruf kecil.
+```
+<ol type=”I”>`
+```
+untuk daftar dengan angka romawi besar.
+
+```
+<ol type=”i”>
+``` 
+untuk daftar dengan angka romawi kecil.
