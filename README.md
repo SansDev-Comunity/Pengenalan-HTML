@@ -54,3 +54,6 @@ HTML dimulai pada tahun 1991 ketika Tim Berners-Lee di CERN menciptakan versi pe
 penanda perintah di HTML di sebut Tag.
 untuk membuat tampilan di dokumen yang berpasangan dengan format berikut:
 
+```
+<BEGIN TAG> isi dokumen </EnNDTAG>
+```
