@@ -65,8 +65,6 @@ Simpan ke dalam background.html
 Simpan ke dalam warna.html kemudian buka warna.html menggunakan browser,
 Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut.
 
-| Chapter | Fokus Utama | Topik Bahasan |
-| :--- | :--- | :--- |
 | **[01. Konvensi Kode](chapters/01-konvensi-dan-standar-kode.md)** | Standardisasi | Penamaan, Sintaks Modern, DRY. |
 | **[02. Arsitektur](chapters/02-arsitektur-dan-logika-bisnis.md)** | Struktur | Service Layer, SRP, Skinny Controller. |
 | **[03. Validasi & Keamanan](chapters/03-validasi-dan-keamanan.md)** | Integritas | Form Requests, Policies, Config Safety. |
