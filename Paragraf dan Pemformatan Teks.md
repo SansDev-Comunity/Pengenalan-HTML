@@ -5,6 +5,8 @@ Penulisan paragraf bisa menggunakan tag <p> memformat tulisan / teks bisa berbag
 | Tag | Deskripsi 
 | :--- | :--- | 
 | b | Membuat teks bercetak tebal
-| red | #FFFFFF 
-| yellow | #FF0000 
-| lime | #FFFF00
+| em | membuat penekanan pada teks 
+| i | membuat teks bercetak miring 
+| small | membuat teks bercetak kecil
+| strong | menyatakan bahwa teks tersebut penting
+| sub | Membuat teks tercetak sebagai subscript
