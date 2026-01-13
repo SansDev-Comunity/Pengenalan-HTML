@@ -61,3 +61,6 @@ Simpan ke dalam background.html
   </BODY>
 </HTML>
 ```
+
+Simpan ke dalam warna.html kemudian buka warna.html menggunakan browser.
+Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut
