@@ -72,5 +72,3 @@ Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut.
 | red | #FFFFFF | fuchsia |
 | yellow | #FF0000 | gray |
 | lime | #FFFF00| silver |
-
-| **[lime](#00ff00)** | #00FF00 | maroon |
