@@ -72,3 +72,17 @@ Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut.
 | red | #FFFFFF | fuchsia | #808080 | teal | #008080
 | yellow | #FF0000 | gray | #C0C0C0 | navy | #000080
 | lime | #FFFF00| silver | #808080 | purple | #800080
+
+
+4. Buka Notepad++, tulis kode berikut
+
+```
+<HTML>
+  <HEAD>
+    <Title> Karya Pertama Ku </Title>
+  </HEAD>
+  <BODY BGCOLOR = "yelow' TEXT = "red">
+    Tulisan ini akan tampak dalam browser.
+  </BODY>
+</HTML>
+```
