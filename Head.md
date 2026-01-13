@@ -10,3 +10,9 @@ Tag
 ```
 <html> dan tag </html>
 ```
+
+```
+<head>
+..............
+</head>
+```
