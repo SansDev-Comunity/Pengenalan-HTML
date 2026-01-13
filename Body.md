@@ -12,6 +12,6 @@ terletak di bawah tag <Head>
 Keterangan:
 ● Bentuk dari tag HTML adalah <Element Atribute = Value>
 
-○ Element - nama tag
-○ Atribute - atribute dari tag
+○ Element - nama tag <br>
+○ Atribute - atribute dari tag <br>
 ○ Value - nilai dari atribute
