@@ -86,3 +86,5 @@ Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut.
   </BODY>
 </HTML>
 ```
+
+Simpan ke dalam karya.html kemudian buka melalui browser
