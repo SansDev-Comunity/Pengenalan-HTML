@@ -16,6 +16,7 @@ Keterangan:
 ○ Atribute - atribute dari tag <br>
 ○ Value - nilai dari atribute <br>
 
-● text memberikan warna pada teks
-● bgcolor: memberikan warna pada latar blakang dokumen HTML dan bentuk gambar
-● background: memberikan latar
+● text memberikan warna pada teks <br>
+● bgcolor: memberikan warna pada latar belakang dokumen HTML dan bentuk gambar <br>
+● background: memberikan latar belakang dokumen HTML dalam bentuk gambar <br>
+●
