@@ -51,3 +51,13 @@ Smpan di dalam body.html kemuadian buka body.html menggunakan browser
 Simpan ke dalam background.html
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/background.png)
+
+3. Bukalah Notepad++, kemudian tulis kode berikut
+
+   ```
+<HTML>
+  <BODY BGCOLOR = "#FFFF000' TEXT = "#FF0000">
+    Tulisan ini akan tampak dalam browser.
+  </BODY>
+</HTML>
+```
