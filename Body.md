@@ -67,8 +67,8 @@ Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut.
 
 | black | #000000 | blue | #0000ff | olive | #8080000
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[black](#000000)** | blue | Penamaan, Sintaks Modern, DRY. |
-| **[white](#ffffff)** | fuchsia | Service Layer, SRP, Skinny Controller. |
-| **[red](#ff0000)** | gray | Form Requests, Policies, Config Safety. |
-| **[yellow](#ffff00)** | silver| Mass Assignment, Accessors, Transactions. |
-| **[lime](#00ff00)** | maroon | N+1 Problem, Queues, Database Indexing. |
+| **[black](#000000)** | blue | blue |
+| **[white](#ffffff)** | fuchsia | fuchsia |
+| **[red](#ff0000)** | gray | gray |
+| **[yellow](#ffff00)** | silver| silver |
+| **[lime](#00ff00)** | maroon | maroon |
