@@ -38,7 +38,7 @@ Penulisan paragraf bisa menggunakan tag <p> memformat tulisan / teks bisa berbag
 ```
 Simpan ke dalam teks.html, Output:
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/teks.png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/tulisan.png)
 
 Bukalah Notepad++, tulis kode berikut
 
