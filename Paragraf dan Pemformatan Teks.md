@@ -26,7 +26,10 @@ Bukalah Notepad++, kemudian tulis kode berikut
 
 <body>
     ada tiga macam tipe tulisan yang paling sering di gunakan <br>
-    dalam penulisan dokumen apa saja ```br```
+    dalam penulisan dokumen apa saja
+```
+br
+```
 </body>
 
 </html>
