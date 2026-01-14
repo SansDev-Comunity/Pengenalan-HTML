@@ -11,6 +11,6 @@ tag <frame> tidak lagi di gunakan.
 
 Untuk membuat frame, tag di gunakan adalah:
 
-- Tag <FRAMESET>
-- Tag <FRAME>
-- Tag <NOFRAME>
+- Tag FRAMESET
+- Tag FRAME
+- Tag NOFRAME
