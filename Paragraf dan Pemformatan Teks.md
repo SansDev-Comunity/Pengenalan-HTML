@@ -36,3 +36,4 @@ Bukalah Notepad++, kemudian tulis kode berikut
 </body>
 </html>
 ```
+Simpan ke dalam teks.html, Output:
