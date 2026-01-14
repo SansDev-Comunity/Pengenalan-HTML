@@ -10,3 +10,19 @@ Tag Frame mempunyai atribut
 | NORESIZE | membuat teks bercetak kecil
 | NAME | menyatakan bahwa teks tersebut penting
 | BORDER | Membuat teks tercetak sebagai subscript
+
+Contoh:
+1. buka Notepad++, kemudian tulis kode berikut
+
+   ```
+  <html>
+
+<head>
+    <title>Frame Kanan</title>
+</head>
+
+<body bgcolor = "white">
+  <h1>Frame di sebelah Kanan</h1>
+</body>
+</html>
+   ```
