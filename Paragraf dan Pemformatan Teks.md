@@ -60,4 +60,4 @@ Bukalah Notepad++, tulis kode berikut
 </html>
 ```
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/font.png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/tulisan.png)
