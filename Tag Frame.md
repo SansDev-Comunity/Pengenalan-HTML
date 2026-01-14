@@ -27,6 +27,9 @@ Contoh:
 ```
 Simpan dengan nama: framekanan.html
 
+Output:
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/frame%20kanan.png)
+
    ```
     <html>
       <head>
