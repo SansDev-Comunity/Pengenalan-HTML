@@ -17,4 +17,4 @@ Dengan nilai presentase
 FRAMESET COLS = "20%, 40%, 20%, 20%"
 
 Dengan nilai proporsional
-FRAMESET ROWS =  *,2* , *,*
+FRAMESET ROWS = ( " *,2* , *,* ")
