@@ -19,3 +19,4 @@ Buka Notepad++, kemudian tuliskan kode berikut dan simpan dalam file komentar.ht
 </body>
 </html>
 ```
+Contoh di atas memiliki komentar dengan kode <!- warna bg jadi biru -->
