@@ -16,26 +16,31 @@ Buka Notepad++ tulis kode berikut
 </head>
 
 <body>
-  <h1> align="center">Tugas Akhir Kelompok TA 201</h1>
-  <h1> align="center">Pengembangan SI Akademik ITB</h1>
-  <ul>
-    <li> Pendahuluan
-      <ol>
-        <li> Latar belakang
-        <li> Rumusan Masalah
-        <li> Tujuan
-        <li> Batasan maslah
-      </ol>
-      <li> Daftar Pustaka
-      <ol>
-        <li Definisi Sistem Informasi
-        <li> SI Akademik ITB saat ini
-      </ol>
-  </ul>
+    <h1 align="center">Tugas Akhir Kelompok TA 201</h1>
+    <h1 align="center">Pengembangan SI Akademik ITB</h1>
+    <ul>
+        <li>
+            Pendahuluan
+            <ol>
+                <li>Latar belakang</li>
+                <li>Rumusan Masalah</li>
+                <li>Tujuan</li>
+                <li>Batasan maslah</li>
+            </ol>
+        </li>
+
+        <li>
+            Daftar Pustaka
+            <ol>
+                <li Definisi Sistem Informasi <li>SI Akademik ITB saat ini</li>
+            </ol>
+        </li>
+    </ul>
 </body>
+
 </html>
 ```
 
 ## Output
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/list.png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/list2.png)
