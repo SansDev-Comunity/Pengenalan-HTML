@@ -57,3 +57,6 @@ Output:
       </frameset>
    </html>
    ```
+
+Output:
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/frame.png)
