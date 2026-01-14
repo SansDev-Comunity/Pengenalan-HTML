@@ -4,16 +4,16 @@
 <html>
 
 <head>
-    <title>Tipe-tipe Font</title>
+    <title>Menu</title>
 </head>
 
-<body>
-    <font face="Verdana"> Pendahuluan<br></font>
-    <p style="font-family: times">
-    Latar belakang <br>
-    Rumusan Masalah <br>
-    Tujuan penelitian <br>
-    </p>
+<body bgcolor = "White">
+    <ul>
+        <li><a href=#>Home</a></li>
+        <li><a href=#>Products</a></li>
+        <li><a href=#>About</a></li>
+        <li><a href=#>Contact</a></li>
+    </ul>
 </body>
 </html>
 ```
