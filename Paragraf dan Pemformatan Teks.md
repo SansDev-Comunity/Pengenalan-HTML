@@ -37,3 +37,5 @@ Bukalah Notepad++, kemudian tulis kode berikut
 </html>
 ```
 Simpan ke dalam teks.html, Output:
+
+![image](https://github.com/itsolution405/HTML/assets/141856824/337daa29-f068-4f13-9fbe-fe6e840d9bce)
