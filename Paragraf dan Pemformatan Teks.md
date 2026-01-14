@@ -27,6 +27,7 @@ Bukalah Notepad++, kemudian tulis kode berikut
 <body>
     ada tiga macam tipe tulisan yang paling sering di gunakan 
     dalam penulisan dokumen apa saja <br>
+    Ketiga tipe tersebut adalah tulisan <b> b tulisan bercetak tebal </b>
 </body>
 
 </html>
