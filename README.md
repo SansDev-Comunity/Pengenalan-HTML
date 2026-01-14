@@ -39,7 +39,7 @@ HTML dimulai pada tahun 1991 ketika Tim Berners-Lee di CERN menciptakan versi pe
 
 - XHTML (2000): Versi yang lebih ketat, menggabungkan HTML dengan aturan XML (huruf kecil, tag wajib ditutup).
 
-- HTML5 (2014): Versi paling mutakhir, membawa fitur semantik penting (<header>, <footer>) dan dukungan bawaan untuk audio/video, menjadi fondasi web modern.
+- HTML5 (2014): Versi paling mutakhir, membawa fitur semantik penting (header, footer) dan dukungan bawaan untuk audio/video, menjadi fondasi web modern.
 
 ### Peran dan Standarisasi
 
