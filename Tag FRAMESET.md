@@ -18,3 +18,10 @@ FRAMESET COLS = "20%, 40%, 20%, 20%"
 
 Dengan nilai proporsional
 FRAMESET ROWS = " ,2  "
+
+Dengan nilai tetap, setiap frame di definisikan dalam ukuran pixel.
+cara ini kurang di sarankan karena resolusi monitor user tidak sama
+dengan resolusi monitor pada saat perancangan frame.
+
+Dengan nilai proposional, di defisikan sebagai lebar jendela browser.
+jumlah bintang seluruh nya adalah 1+2+1 = 4 frame pertama, ketiga serta ke empat sama dengan frame pertama.
