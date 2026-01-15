@@ -9,7 +9,6 @@ terletak di bawah tag <Head>
 </body>
 ```
 
-
 Keterangan:
 ● Bentuk dari tag HTML adalah <Element Atribute = Value>
 
