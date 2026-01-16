@@ -7,6 +7,6 @@
   </Frameset>
 ```
 
-### Output
+## Output
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/framekol%20kanan%20140.png)
