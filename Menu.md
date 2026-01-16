@@ -23,7 +23,7 @@
 <html>
 
 <head>
-    <title>Menu</title>
+    <title>Menu 2</title>
 </head>
 
 <body bgcolor = "White">
