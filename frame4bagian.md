@@ -10,3 +10,7 @@
     </FRAMESET>
   </Frameset>
 ```
+
+## Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/frame%204%20bagian.png)
