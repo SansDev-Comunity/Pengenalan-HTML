@@ -32,3 +32,12 @@
 
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Tabel%201.png)
+
+# Bukalah Notepad++, kemudian buat tabel berikut:
+
+| No | Nama | Alamat | Jurusan
+| :--- | :--- | 
+| 1 | Renata | Puri Cipageran Indah 2 | Bisnis Management
+| 2 | Alvin | Cimahi | Teknik Informatika
+
+Di simpan dalam file tabel_mahasiswa.html
