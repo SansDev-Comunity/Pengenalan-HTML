@@ -36,7 +36,7 @@
 # Bukalah Notepad++, kemudian buat tabel berikut:
 
 | No | Nama | Alamat | Jurusan
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :---
 | 1 | Renata | Puri Cipageran Indah 2 | Bisnis Management
 | 2 | Alvin | Cimahi | Teknik Informatika
 
