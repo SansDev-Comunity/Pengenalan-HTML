@@ -11,5 +11,7 @@ img
 | WIDTH | lebar gambar (dalam pixel)
 | HEIGHT | Tinggi gambar (dalam pixel)
 | ALIGN | posisis teks di sekitar gambar. Alternatif misalnya
-|       | Adalah TOP, MIDDLE
-| ALT | menyatakan bahwa teks tersebut penting
+|       | Adalah TOP, MIDDLE, BoTTOM, LEFT, RIGHT.
+|       | Atribut ini tidak dikenali di HTML5 dan mulai
+|       | di tinggalkan di HTML4.01
+| ALT | menampilkan teks pengganti gambar jika gambar tidak dapat di tampilkan
