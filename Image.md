@@ -32,3 +32,7 @@ Bukalah Notepad++, kemudian tulis kode berikut
 
 </HTML>
 ```
+
+## Output
+
+![image]()
