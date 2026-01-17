@@ -13,3 +13,5 @@
 ```
 
 ## Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/heading%20cell.png)
