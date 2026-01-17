@@ -12,6 +12,8 @@
 
 ```
 
+Simpan ke dalam heading_cell.html kemudian buka dalam browser
+
 ## Output
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/heading%20cell.png)
