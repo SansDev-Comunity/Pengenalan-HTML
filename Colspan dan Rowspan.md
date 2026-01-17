@@ -39,4 +39,4 @@ Simpan dalam table_span.html
 
 ## Output
 
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/table%20span.png)
