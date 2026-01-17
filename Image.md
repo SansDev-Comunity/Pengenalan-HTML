@@ -5,15 +5,11 @@ psling cocok untuk menambahkan di gunakan tag
 ```
 img
 ```
-| Tag | Deskripsi 
+| Atribut | Keterangan
 | :--- | :--- | 
-| b | Membuat teks bercetak tebal
-| em | membuat penekanan pada teks 
-| i | membuat teks bercetak miring 
-| small | membuat teks bercetak kecil
-| strong | menyatakan bahwa teks tersebut penting
-| sub | Membuat teks tercetak sebagai subscript
-| sup | Membuat teks bercetak seperti supercript
-| ins | Menyatakan teks yang di apit tag ins itu di sisipkan
-| del | Menyatakan teks yang di apit tag del itu di hapus atau del
-| mark | Menyatakan teks yang di tandai efeknya seperti tulisan yang di beri "Stabilo"
+| SRC | Menunjukan url atau direktori tempat file gambar berada
+| WIDTH | lebar gambar (dalam pixel)
+| HEIGHT | Tinggi gambar (dalam pixel)
+| ALIGN | posisis teks di sekitar gambar. Alternatif misalnya
+          Adalah TOP, MIDDLE
+| ALT | menyatakan bahwa teks tersebut penting
