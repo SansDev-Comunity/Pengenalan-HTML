@@ -18,3 +18,9 @@ Untuk memformat perataan text di dalam table Anda gunakan atribut Align dan Vali
 ```
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/performatan%20table.png)
+
+```
+<caption>Creating Table</caption>
+```
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/caption.png)
