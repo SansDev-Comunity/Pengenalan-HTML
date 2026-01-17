@@ -8,5 +8,5 @@ Tag Input di gunakan untuk membuat elemen-elemen yang di gunakan untuk meminta i
 | SIZE | Menentukan lebar dari element input
 | MAXLENGTH | Menentukan jumlah maksimum karakter yang dapat di masukan pada element input
 | VALUE | Untuk kotak teks, menentukan teks yang tertulis, untuk check box atau radio, menentukan nilai item yang di pilih. untuk Submit dan Reset, menentukan teks yang tertulis pada tombol.
-| CHECKED |
-| TYPE|
+| CHECKED | Hanya di gunakan untuk check box atau radio, Menentukan pilihan default.
+| TYPE| Menentukan tipe input yang di buat
