@@ -50,3 +50,5 @@ Setiap kejadian selalu ada hikmahnya. Jangan bertanya kenapa ini terjadi, tapi t
 	</BODY>
 </HTML>
 ```
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Teks%20Area.png)
