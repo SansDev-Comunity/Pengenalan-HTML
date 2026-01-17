@@ -19,6 +19,5 @@ tag ini mempunyai dua METHOD yaitu:
 
 | ATRIBUT | KETERANGAN
 | :--- | :--- | 
-| METHOD | Untuk menentukan metode pengolahan form. pilihan
-|        | method adalah GET atau POST
+| METHOD | Untuk menentukan metode pengolahan form. pilihan method adalah GET atau POST
 | ACTION | Untuk menentukan URL atau lokasi dari file yang di gunakan untuk mengolah form tersebut
