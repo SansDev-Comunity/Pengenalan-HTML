@@ -11,5 +11,5 @@ img
 | WIDTH | lebar gambar (dalam pixel)
 | HEIGHT | Tinggi gambar (dalam pixel)
 | ALIGN | posisis teks di sekitar gambar. Alternatif misalnya
-          Adalah TOP, MIDDLE
+|       | Adalah TOP, MIDDLE
 | ALT | menyatakan bahwa teks tersebut penting
