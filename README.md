@@ -61,3 +61,21 @@ HTML 5 juga cross-platform. artinya dapat menjalankan di berbagai platform dan d
 
 HTML 5 adalah hasil kerja World Wide Web Consortium (W3C) Hypertext Aplication Tecnology Working Group
 (WHATWG) sedangkan W3C bekerja dengan XHTML.
+
+Dari kerjasama itu , ada beberapa aturan yang coba di terapkan dalam versi baru HTML
+
+- fitur baru harus berbasiskan HTML, CSS, DOM dan JavaScript
+- Penggunaan Plugin Eksternal
+- Penanganan error harus lebih mudah
+- Scripting harus ganti dengan lebih banyak markup
+- HTML 5 harus device-dependent
+- Proses pengembangan nya harus bisa di lihat oleh public
+
+## Fitur Baru HTML 5
+
+Beberapa fitur baru dari HTML 5
+
+- canvas = untuk menggambar 2D
+- video dan audio untuk pemutaran multimedia
+- mendukung penyimpanan pada computer local support
+- elemen baru seperti article, footer, header, nav, section
