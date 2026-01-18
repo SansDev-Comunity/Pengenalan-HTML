@@ -80,3 +80,18 @@ Beberapa fitur baru dari HTML 5
 - mendukung penyimpanan pada computer local support
 - elemen baru seperti article, footer, header, nav, section
 - control form baru seperti calendar, date, time, email, url, search
+
+# Element Yang di Hilangkan Di HTML 5
+
+- acronym
+- applet
+- basefont
+- big
+- center
+- dir
+- font
+- frame
+- frameset
+- noframes
+- strike
+- tt
