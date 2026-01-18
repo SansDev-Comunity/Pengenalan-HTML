@@ -35,3 +35,9 @@ Penjelasan
 ```
 var c=document.getElementByID ("myCanvas");
 ```
+
+2. Memanggil method getContext() dengan parameter "2d) sehingga nantinya bisa menggunakan banyak properti dan method untuk menggambar kotak, garis, lingkaran, dsb
+
+```
+var ctx=c.getContext("2d");
+```
