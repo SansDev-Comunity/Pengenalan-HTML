@@ -31,3 +31,7 @@ Buka Notepad++ simpan ke dalam file canvasSegiEmpat.html
 
 Penjelasan
 1. mencari elemen canvas pada kode:
+
+```
+var c=document.getElementByID ("myCanvas");
+```
