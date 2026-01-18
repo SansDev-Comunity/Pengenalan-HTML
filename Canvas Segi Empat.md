@@ -28,3 +28,6 @@ Buka Notepad++ simpan ke dalam file canvasSegiEmpat.html
 ```
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/canvas%20segi%20empat.png)
+
+Penjelasan
+1. mencari elemen canvas pada kode:
