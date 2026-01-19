@@ -34,9 +34,15 @@ Penjelasan
 ctx.moveTo(0,0);
 ```
 
-Setelah itu panggil method untuk menarik garis dari posisi kursor sekarang (0,0) ke tujuan (200,100). namun sampai tahap ini
+2. Setelah itu panggil method untuk menarik garis dari posisi kursor sekarang (0,0) ke tujuan (200,100). namun sampai tahap ini
 garis belum tergambaar
 
 ```
 ctx.lineTo(200,100);
+```
+
+3. Setelah itu panggil method Stroke() yang berfungsi untuk betul-betul menggambar garis yang sudah dispesifikkan di atas
+
+```
+ctx.stroke();
 ```
