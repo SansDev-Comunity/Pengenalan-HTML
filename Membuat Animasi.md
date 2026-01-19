@@ -3,5 +3,81 @@
 Animasi yang akan di buat menggunakan gambar berikut yang akan di gerakan, untuk menggerakan gambar.
 berikut method yang penting.
 
-- setInterval (<nama-method>, <waktu>) - memanggil suatu method setiap beberapa milisecond
-- save()
+- setInterval (nama-method, waktu) - memanggil suatu method setiap beberapa milisecond
+- save() - untuk menyimpan kondisi defauld
+- restore() - untuk restrore kondisi
+- translate(x, y) unruk menggeser sebuah object pada canvas bertambah akan bergeser secara vertikal
+
+Berikut contoh kode untuk membuat animasi canvas, simpan kode ke dalam file animasi.html
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Animation</title>
+</head>
+<body>
+	<canvas id="canvas" width="300" height="300"></canvas>
+
+	<script>
+		var plane = new Image();					
+		plane.src = "RaidenZ2.png";	
+
+		var i = 0, i_obs = 0, left = 0, right = 1;	
+		setInterval(showAnimation, 30);		
+
+		function showAnimation() {	
+		  
+	      var canvas = document.getElementById('canvas');
+		  var ctx = canvas.getContext('2d');
+
+		  ctx.globalCompositeOperation = 'destination-over';
+		  ctx.clearRect(0, 0, 300, 300); // clear canvas
+
+		  ctx.save();	
+		  			// Plane Move 
+		  // Move Right
+		  if((i<70) && (right == 1)){
+		  	i++;
+		  	ctx.translate(i, 0);		  		  			  		 		  
+		  }
+		  else{		  	
+		  	right = 0;
+		  	left = 1;
+		  }
+          // Move Left
+		  if((i>0) && (left == 1)){
+		  	i--;
+		  	ctx.translate(i, 0);		  		  			  		 		  
+		  }
+		  else{		  			  	
+		  	left = 0;
+		  	right = 1;
+		  }
+		  ctx.drawImage(plane, 90, 255, plane.width /2, plane.height/2);			  		   		  
+
+		  // Obstacles
+		  i_obs++;
+ 		  ctx.restore();
+ 		  ctx.save();	 		  
+ 		  ctx.fillStyle = 'rgba(255, 255, 255)'; 		  
+ 		  ctx.translate(0, i_obs);		  		  			  		 		  
+ 		  ctx.fillRect(100, -70, 30, 8);
+ 		  ctx.fillRect(150, 0, 30, 8);
+ 		  ctx.fillRect(100, 70, 30, 8);
+ 		  ctx.fillRect(150, 140, 30, 8);
+ 		  ctx.fillRect(100, 210, 30, 8);
+
+ 		  if(i_obs == 423){
+ 		  	i_obs = 0;
+ 		  }
+ 		  
+ 		  // Background
+ 		  ctx.restore(); 		  
+		  ctx.fillStyle = 'rgba(0, 0, 0)';
+		  ctx.fillRect( 0, 0, canvas.width, canvas.height);		  		 	 
+		}	
+	</script>
+</body>
+</html>
+```
