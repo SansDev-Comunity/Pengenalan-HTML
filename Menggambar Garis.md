@@ -24,4 +24,4 @@ kita bisa membuat garis dari titik (0,0) ke (200,100). Kemudian simpan kodenya d
 ```
 
 ## Output
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/Canvas%20Garis.png)
