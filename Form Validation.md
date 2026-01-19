@@ -41,3 +41,7 @@ Berikut contoh untuk validasi form, Simpan kode ke dalam validasiForm.html
 	</BODY>
 </HTML>
 ```
+
+## Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/Validasi%20Form.png)
