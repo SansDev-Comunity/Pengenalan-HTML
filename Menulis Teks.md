@@ -33,6 +33,7 @@ simpan fike canvasTeks.html
 ## Output
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/Canvas%20Teks.png)
+
 Pada kode ini di lakukan penulisan teks berjenis Arial dan ukuran 30px.
 teks tersebut adalah "Hai Indonesia" yang
 di tulis bermula dari koordinat (10,50)
