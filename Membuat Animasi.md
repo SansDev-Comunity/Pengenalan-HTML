@@ -130,3 +130,50 @@ Penjelasan:
 ```
   setInterval(showAnimation, 30);
 ```
+
+4. Menyiapkan canvas dan penyimpanan state awal yaitu sebagai pergerakan.
+
+```
+    var canvas = document.getElementById('canvas');
+            var ctx = canvas.getContext('2d');
+
+            ctx.clearRect(0, 0, 300, 300);
+
+            ctx.fillStyle = 'black';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            ctx.save();
+```
+
+5. Tentukan pergerakan logo.. logo akan bergerak secara horizontal yang di tentukan oleh variable i. variable i akan bertambah saat bergerak ke kanan dan akan berhenti pada saat i = 70. Saat i = 70 logo bergerak ke kiri sampai i = 0
+
+```
+ // MOVE RIGHT
+            if ((i < 70) && (right == 1)) {
+                i++;
+            } else {
+                right = 0;
+                left = 1;
+            }
+
+            // MOVE LEFT
+            if ((i > 0) && (left == 1)) {
+                i--;
+            } else {
+                left = 0;
+                right = 1;
+            }
+
+            ctx.translate(i, 0);
+
+            // 🔥 LOGO (DIPERKECIL)
+            ctx.drawImage(
+                logo,
+                70,
+                240,
+                logo.width / 8,
+                logo.height / 8
+            );
+
+            ctx.restore();
+```
