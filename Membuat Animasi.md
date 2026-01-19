@@ -13,71 +13,93 @@ Berikut contoh kode untuk membuat animasi canvas, simpan kode ke dalam file anim
 ```
 <!DOCTYPE html>
 <html>
+
 <head>
-	<title>Animation</title>
+    <title>Animation</title>
 </head>
+
 <body>
-	<canvas id="canvas" width="300" height="300"></canvas>
+    <canvas id="canvas" width="300" height="300"></canvas>
 
-	<script>
-		var plane = new Image();					
-		plane.src = "RaidenZ2.png";	
+    <script>
+        var plane = new Image();
+        plane.src = "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Agency%20Logo%20Transparant.png";
 
-		var i = 0, i_obs = 0, left = 0, right = 1;	
-		setInterval(showAnimation, 30);		
+        var i = 0,
+            i_obs = 0,
+            left = 0,
+            right = 1;
 
-		function showAnimation() {	
-		  
-	      var canvas = document.getElementById('canvas');
-		  var ctx = canvas.getContext('2d');
+        plane.onload = function() {
+            setInterval(showAnimation, 30);
+        };
 
-		  ctx.globalCompositeOperation = 'destination-over';
-		  ctx.clearRect(0, 0, 300, 300); // clear canvas
+        function showAnimation() {
 
-		  ctx.save();	
-		  			// Plane Move 
-		  // Move Right
-		  if((i<70) && (right == 1)){
-		  	i++;
-		  	ctx.translate(i, 0);		  		  			  		 		  
-		  }
-		  else{		  	
-		  	right = 0;
-		  	left = 1;
-		  }
-          // Move Left
-		  if((i>0) && (left == 1)){
-		  	i--;
-		  	ctx.translate(i, 0);		  		  			  		 		  
-		  }
-		  else{		  			  	
-		  	left = 0;
-		  	right = 1;
-		  }
-		  ctx.drawImage(plane, 90, 255, plane.width /2, plane.height/2);			  		   		  
+            var canvas = document.getElementById('canvas');
+            var ctx = canvas.getContext('2d');
 
-		  // Obstacles
-		  i_obs++;
- 		  ctx.restore();
- 		  ctx.save();	 		  
- 		  ctx.fillStyle = 'rgba(255, 255, 255)'; 		  
- 		  ctx.translate(0, i_obs);		  		  			  		 		  
- 		  ctx.fillRect(100, -70, 30, 8);
- 		  ctx.fillRect(150, 0, 30, 8);
- 		  ctx.fillRect(100, 70, 30, 8);
- 		  ctx.fillRect(150, 140, 30, 8);
- 		  ctx.fillRect(100, 210, 30, 8);
+            ctx.clearRect(0, 0, 300, 300);
 
- 		  if(i_obs == 423){
- 		  	i_obs = 0;
- 		  }
- 		  
- 		  // Background
- 		  ctx.restore(); 		  
-		  ctx.fillStyle = 'rgba(0, 0, 0)';
-		  ctx.fillRect( 0, 0, canvas.width, canvas.height);		  		 	 
-		}	
-	</script>
+            // BACKGROUND
+            ctx.fillStyle = 'black';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            ctx.save();
+
+            // MOVE RIGHT
+            if ((i < 70) && (right == 1)) {
+                i++;
+            } else {
+                right = 0;
+                left = 1;
+            }
+
+            // MOVE LEFT
+            if ((i > 0) && (left == 1)) {
+                i--;
+            } else {
+                left = 0;
+                right = 1;
+            }
+
+            ctx.translate(i, 0);
+
+            // 🔥 PLANE (DIPERKECIL)
+            ctx.drawImage(
+                plane,
+                70,
+                240,
+                plane.width / 8,
+                plane.height / 8
+            );
+
+            ctx.restore();
+
+            // OBSTACLES
+            i_obs++;
+            ctx.save();
+            ctx.fillStyle = 'white';
+            ctx.translate(0, i_obs);
+
+            ctx.fillRect(100, -70, 30, 8);
+            ctx.fillRect(150, 0, 30, 8);
+            ctx.fillRect(100, 70, 30, 8);
+            ctx.fillRect(150, 140, 30, 8);
+            ctx.fillRect(100, 210, 30, 8);
+
+            if (i_obs >= 423) {
+                i_obs = 0;
+            }
+
+            ctx.restore();
+        }
+    </script>
 </body>
+
 </html>
 ```
+
+## Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/canvas%20animation.png)
