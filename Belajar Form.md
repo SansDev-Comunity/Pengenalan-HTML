@@ -3,7 +3,7 @@
 ```
 <HTML>
 	<HEAD>
-		<TITLE> Form</TITLE>
+		<TITLE>Form</TITLE>
 	</HEAD>
 	<BODY>
 		<FORM>
